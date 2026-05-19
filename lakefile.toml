@@ -1,0 +1,6 @@
+name = "SIDECompression"
+version = "0.1.0"
+defaultTargets = ["SIDECompression"]
+
+[[lean_lib]]
+name = "SIDECompression"
