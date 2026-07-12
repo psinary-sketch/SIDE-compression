@@ -1,1 +1,2 @@
 import SIDECompression.Basic
+import SIDECompression.ChainLength
