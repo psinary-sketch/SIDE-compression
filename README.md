@@ -20,11 +20,6 @@ The first says that an exhaustive catalogue cleared class by class clears every 
 
 Companion paper: `COMPRESSION_THEOREM_DRAFT.md`.
 
-## The headline
-
-```
-```
-
 ## What's verified
 
 ### §1–§2 — Conditions and object counts
